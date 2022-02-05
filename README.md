@@ -116,6 +116,6 @@
     - BODYMOVIN
 
 ## 🎬 데모 영상
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/74812188/152625553-da3c2d39-af43-4f16-9afc-3d7e2841427e.gif)
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74812188/152625461-2383ee75-55a2-4e33-af02-7b09d4d1aca3.gif)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74812188/152625442-eeb22848-c5b7-47f5-8ebc-b34451a36135.gif)
+<img width="310" src="https://user-images.githubusercontent.com/74812188/152625553-da3c2d39-af43-4f16-9afc-3d7e2841427e.gif">
+<img width="310" src="https://user-images.githubusercontent.com/74812188/152627136-30e4f307-f72f-42a5-ac6f-336f96c5cec3.gif">
+<img width="310" src="https://user-images.githubusercontent.com/74812188/152625442-eeb22848-c5b7-47f5-8ebc-b34451a36135.gif">

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chores"
+        android:title="@string/label1"
+        android:icon="@drawable/icon_home"/>
+    <item
+        android:id="@+id/chart"
+        android:title="@string/label2"
+        android:icon="@drawable/icon_stat"/>
+    <item
+        android:id="@+id/community"
+        android:title="@string/label3"
+        android:icon="@drawable/icon_com"/>
+    <item
+        android:id="@+id/money"
+        android:title="@string/label4"
+        android:icon="@drawable/icon_pig"/>
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013044986773",
+    "project_id": "homework-339914",
+    "storage_bucket": "homework-339914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013044986773:android:7cc8be0678ba1653cf2c9c",
+        "android_client_info": {
+          "package_name": "com.gdsc.homework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013044986773-0fnmi3sl01cuuldcbmfm5r5h 6qhj2jsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdsc.homework",
+            "certificate_hash": "6822731507e27b817eac32a14714c894ef13ebc6"
+          }
+        },
+        {
+          "client_id": "1013044986773-g1en7dt9fr108qfiie0ajkh4uppgkc67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyGJBiQaDQvqoZo3uyIhh9Tbs92ax1a3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013044986773-g1en7dt9fr108qfiie0ajkh4uppgkc67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
